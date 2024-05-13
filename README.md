@@ -1,10 +1,8 @@
 # :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+### Esse projeto, busca construir uma interface utilizando uma api pré existente, baseada na plataforma de musica spotify.
+⚠️⚠️ ATENCAO ⚠️⚠️
+os arquivos desenvolvidos por mim estao na dentro da pasta SRC , as alteracoes podem ser melhor visualizadas atraves da verificacao dos commits que eu realizei nos arquivos, todo o resto foi desenvolvido pela Trybe que pensou esse projeto.
+
+tecnologias usadas
+react, javascript
